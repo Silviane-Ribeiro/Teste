@@ -63,6 +63,8 @@ Considere:
 
 > **Atenção:** a aresta `(4,4)` é um laço. No cálculo do grau, um laço é
 > contado duas vezes.
+<img width="450" height="405" alt="Captura de tela 2026-10-22 155431" src="https://github.com/user-attachments/assets/9d0ae57b-b0d7-4969-824e-cdd3f975d166" />
+
 
 ### Plataformas
 
